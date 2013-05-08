@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "1.2.1"
-  s.date = "2013-04-04"
+  s.version = "1.3.0"
+  s.date = "2013-05-08"
 
   # Gem Details
   s.name = "neat-compass"
