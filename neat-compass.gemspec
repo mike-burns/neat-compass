@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.summary = %q{ThoughtBot's Neat packaged as a Compass extension.}
   s.description = %q{ThoughtBot's Neat packaged as a Compass extension.}
   s.email = "jed@jedfoster.com"
-  s.homepage = "https://github.com/thoughtbot/neat"
+  s.homepage = "https://github.com/jedfoster/neat-compass"
 
   # Gem Files
   s.files += Dir.glob("lib/**/*.*")
