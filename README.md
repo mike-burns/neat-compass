@@ -1,8 +1,8 @@
 # bourbon-compass
 
-This project is simply a repackaging of Thoughtbot's [Neat](http://neat.bourbon.io/) as a Compass extension. I try to keep it in sync and up to date with Neat.
+This project is simply a repackaging of thoughtbot's [Neat](http://neat.bourbon.io/) as a Compass extension. I try to keep it in sync and up to date with Neat.
 
-If you like this, check out my Compass port of Thoughtbot's [Bourbon](http://bourbon.io/), [bourbon-compass](https://github.com/jedfoster/bourbon-compass)
+If you like this, check out my Compass port of thoughtbot's [Bourbon](http://bourbon.io/), [bourbon-compass](https://github.com/jedfoster/bourbon-compass)
 
 ## Installation
 
